@@ -9,18 +9,14 @@
 </p>
 
 <p align="left">
-    <a href="https://github.com/ryo-ma/github-profile-trophy"
-    >
-        <img
-            src="https://github-profile-trophy.vercel.app/?username=josemanuellopezvaler0&theme=onedark&margin-w=15&no-bg=true&no-frame=true"
-            alt="josemanuellopezvaler0"
-        />
-    </a>
+    <img
+        src="https://github-profile-trophy.vercel.app/?username=josemanuellopezvaler0&theme=onedark&margin-w=15&no-bg=true&no-frame=true"
+        alt="josemanuellopezvaler0"
+    />
 </p>
 
 <p align="left">
-    <a href="https://twitter.com/l0p3zval3r012" target="blank"
-    >
+    <a href="https://twitter.com/l0p3zval3r012" target="blank">
         <img
             src="https://img.shields.io/twitter/follow/l0p3zval3r012?logo=twitter&style=for-the-badge"
             alt="l0p3zval3r012"
@@ -28,8 +24,8 @@
     </a>
 </p>
 
-- 🌱 I’m currently learning **Cross-platform application development** - 👨‍💻 All
-of my projects are available at
+- 🌱 I’m currently learning **Cross-platform application development**
+- 👨‍💻 All of my projects are available at
 [https://josemanuellopezvaler0.github.io/Portfolio/](https://josemanuellopezvaler0.github.io/Portfolio/)
 - 📫 How to reach me **lovajomafidiana@gmail.com**
 
@@ -281,10 +277,8 @@ of my projects are available at
 </p>
 
 <p>
-    <a href="https://git.io/streak-stats">
-        <img
-            align="center"
-            src="http://github-readme-streak-stats.herokuapp.com?user=JoseManuelLopezValer0&theme=onedark&mode=weekly&hide_border=true" 
-            alt="josemanuellopezvaler0" />
-    </a>
+    <img
+        align="center"
+        src="http://github-readme-streak-stats.herokuapp.com?user=JoseManuelLopezValer0&theme=onedark&mode=weekly&hide_border=true" 
+        alt="josemanuellopezvaler0" />
 </p>
