@@ -12,7 +12,7 @@
     <a href="https://github.com/ryo-ma/github-profile-trophy"
     >
         <img
-            src="https://github-profile-trophy.vercel.app/?username=josemanuellopezvaler0"
+            src="https://github-profile-trophy.vercel.app/?username=josemanuellopezvaler0&theme=onedark&margin-w=15&no-bg=true&no-frame=true"
             alt="josemanuellopezvaler0"
         />
     </a>
@@ -139,6 +139,14 @@ of my projects are available at
             height="40"
         />
     </a>
+    <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
+        <img
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"
+            alt="cs"
+            width="40"
+            height="40"
+        />
+    </a>
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
         <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
@@ -260,22 +268,23 @@ of my projects are available at
 <p>
     <img
         align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=josemanuellopezvaler0&show_icons=true&locale=en&layout=compact"
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=josemanuellopezvaler0&show_icons=true&layout=compact&theme=onedark&hide_border=true"
         alt="josemanuellopezvaler0"
     />
 </p>
 
 <p> &nbsp;<img
         align="center"
-        src="https://github-readme-stats.vercel.app/api?username=josemanuellopezvaler0&show_icons=true&locale=en"
+        src="https://github-readme-stats.vercel.app/api?username=josemanuellopezvaler0&show_icons=true&theme=onedark&hide_border=true"
         alt="josemanuellopezvaler0"
     />
 </p>
 
 <p>
-    <img
-        align="center"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=josemanuellopezvaler0&"
-        alt="josemanuellopezvaler0"
-    />
+    <a href="https://git.io/streak-stats">
+        <img
+            align="center"
+            src="http://github-readme-streak-stats.herokuapp.com?user=JoseManuelLopezValer0&theme=onedark&mode=weekly&hide_border=true" 
+            alt="josemanuellopezvaler0" />
+    </a>
 </p>
